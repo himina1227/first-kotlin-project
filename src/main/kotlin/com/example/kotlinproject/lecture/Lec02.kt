@@ -1,7 +1,6 @@
 package com.example.kotlinproject.lecture
 
 import java.lang.IllegalArgumentException
-import java.nio.channels.IllegalChannelGroupException
 
 /**
  * Kotlin에서 null을 다루는 방법
@@ -12,7 +11,7 @@ import java.nio.channels.IllegalChannelGroupException
  * Kotlin에서 Java 코드를 사용할 때 플랫폼 타입 사용에 유의 해야한다.
  * Java 코드를 읽으며 널 가능성을 확인하며 Kotlin으로 Wrapping을 확인해야한다.
  */
-class Lec02Main {
+class Lec02 {
 
     // kotlin에서 null을 배우는 방법 safe call, Elvis연산자
     fun startsWithA1(str: String?) {

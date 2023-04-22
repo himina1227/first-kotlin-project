@@ -1,7 +1,7 @@
 package com.example.kotlinproject.lecture
 
 // 접근 제한자 생략하면 Public
-class Lec01Main {
+class Lec01 {
 
     /**
      * 모든 변수는 우선 val로 만들고 꼭 필요한 경우 var로 변경한다.
