@@ -40,10 +40,10 @@ class Lec03 {
     }
 }
 
-fun main() {
-    var name = """
-        
-    """.trimIndent()
-
-    println(name)
-}
+//fun main() {
+//    var name = """
+//
+//    """.trimIndent()
+//
+//    println(name)
+//}
