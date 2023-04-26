@@ -50,6 +50,7 @@ class Lec08 {
         printAll("A", "B", "C")
         val array = arrayOf("A", "B", "C")
         printAll(*array)
+        repeat("김낙겸", useNewLine = false) // named argument
     }
 
     fun printAll(vararg strings: String) {
