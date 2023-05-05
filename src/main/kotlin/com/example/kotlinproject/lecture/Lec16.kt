@@ -8,6 +8,8 @@ package com.example.kotlinproject.lecture
  *  - 해당 변수의 현재 타입 즉, 정적인 타입에 의해 어떤 확장함수가 호출될지 결정된다.
  * 2. infix 함수(중위 함수) step, in
  * 3. inline 함수
+ *  - 함수를 복사 붙여넣기 하는 함수
+ *  - 함수를 파라미터로 전달할 때에 오버헤드를 줄일 수 있다.
  * 4. 지역함수
  */
 class Lec16 {
